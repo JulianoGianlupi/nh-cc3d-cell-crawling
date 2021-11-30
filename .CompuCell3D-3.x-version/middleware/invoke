@@ -1,0 +1,5 @@
+#!/bin/sh
+
+/usr/bin/invoke_app "$@" -C @tool/bin/toolname.sh -t toolname \
+                         -u pyqt5-5.10.1 \
+                         -u vtk-6.3.0

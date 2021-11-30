@@ -1,0 +1,2 @@
+invoke_app
+   @tool/CompuCell3D/compucell3d.sh
