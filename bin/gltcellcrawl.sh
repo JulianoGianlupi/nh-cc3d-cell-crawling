@@ -25,8 +25,8 @@ echo ${TOOL_HOME}
 export LC_NUMERIC="C.UTF-8"
 
 
-CC3D_TOOL_NAME=toolName
-CC3D_TOOL_FILENAME=cc3dFileName.cc3d
+CC3D_TOOL_NAME=gltcellcrawl
+CC3D_TOOL_FILENAME=CellMig3D_P3.cc3d
 # CC3D_DEMO_PREFIX=Demos/BookChapterDemos_ComputationalMethodsInCellBiology/VascularTumor/
 USER_DEMO_PATH=$HOME/CompuCell3D_Demos/${CC3D_TOOL_NAME}
 echo ${USER_DEMO_PATH}
